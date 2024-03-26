@@ -85,7 +85,7 @@ h1 {
   white-space: nowrap;
 }
 
-.accueil p {
+.accueil h2 {
   color: #f1f1f1;
   font-size: 30px;
   width: 600px;
@@ -148,7 +148,7 @@ h1 {
     font-size: 50px;
     padding-top: 120px;
   }
-  .accueil p {
+  .accueil h2 {
     font-size: 25px;
     margin-bottom: 10px;
   }
@@ -466,6 +466,9 @@ h1 {
 }
 
 .parallax-txt {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  padding: 10px;
   font-size: 100px;
   color: #fff;
   text-align: center;
